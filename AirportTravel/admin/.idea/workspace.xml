@@ -1,0 +1,2230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b07c8ad-c2ba-47ef-9f24-0d7d2d849172" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feedback.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiveStreaming.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add-new-guest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addLiveStreaming.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addPages.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addwish.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete-image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete-livestreaming.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editAbout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editAssembly.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editEvent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editLivestreaming.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editPages.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editSermon.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editTeaching.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editimage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ministries.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ministriesgallery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productsTable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teaching_upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updates_page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WeddingHub.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/add_all_scratch_coupon.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/add_banner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/add_cashback.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/add_city.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/add_coupon_code.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/add_coupon_type.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/add_flavour.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/add_menucategory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/add_menugallery.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/add_notification.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/add_sc_users.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/add_scratch_coupon.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/add_sub_city.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/add_users.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/addhotel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/api_contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/api_urls.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/less/spinning.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/scss/_spinning.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/font-awesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/bill/js/jquery-1.10.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/CHANGES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/adapters/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/build-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/ckeditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/contents.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/bn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/bs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/en-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/gu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/ka.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/mn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/oc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/sr-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/oc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/about/dialogs/about.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/about/dialogs/logo_ckeditor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/clipboard/dialogs/paste.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/dialog/dialogDefinition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/icons_hidpi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/image/dialogs/image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/image/images/noimage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/link/dialogs/anchor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/link/dialogs/link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/link/images/anchor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/link/images/hidpi/anchor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/magicline/images/hidpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/magicline/images/icon-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/magicline/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/pastefromword/filter/default.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/scayt/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/scayt/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/scayt/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/scayt/dialogs/options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/scayt/dialogs/toolbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/oc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/specialchar/dialogs/specialchar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/table/dialogs/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/tabletools/dialogs/tableCell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/wsc/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/wsc/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/wsc/dialogs/ciframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/wsc/dialogs/wsc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/wsc/dialogs/wsc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/wsc/dialogs/wsc_ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/css/samples.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/img/github-top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/img/header-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/img/header-separator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/img/navigation-tip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/js/sample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/js/sf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/ajax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/api.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/appendto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/assets/inlineall/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/assets/outputxhtml/outputxhtml.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/assets/posteddata.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/assets/sample.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/assets/uilanguages/languages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/datafiltering.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/dialog/assets/my_dialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/dialog/dialog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/divreplace.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/enterkey/enterkey.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.fla" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/htmlwriter/assets/outputforflash/swfobject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/htmlwriter/outputforflash.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/htmlwriter/outputhtml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/inlineall.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/inlinebycode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/inlinetextarea.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/jquery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/magicline/magicline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/readonly.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/replacebyclass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/replacebycode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/sample.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/sample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/sample_posteddata.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/tabindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/toolbar/toolbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/uicolor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/uilanguages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/wysiwygarea/fullpage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/old/xhtmlstyle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/css/fontello.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/font/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/font/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/font/fontello.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/font/fontello.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/font/fontello.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/font/fontello.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/js/abstracttoolbarmodifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/js/fulltoolbareditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/js/toolbarmodifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/js/toolbartextmodifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/dialog_ie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/dialog_ie8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/dialog_iequirks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/editor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/editor_gecko.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/editor_ie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/editor_ie8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/editor_iequirks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/icons_hidpi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/images/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/images/hidpi/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/images/hidpi/lock-open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/images/hidpi/lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/images/hidpi/refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/images/lock-open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/images/lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/images/refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/images/spinner.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/skins/moono-lisa/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/ckeditor/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/bill.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ad.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ae.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/af.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ai.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/al.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/am.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ao.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/aq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/as.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/at.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/au.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/aw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ax.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/az.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ba.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/be.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/br.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/by.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/bz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ca.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/cc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/cd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/cf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/cg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ci.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ck.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/cl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/cm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/cn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/co.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/cr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/cu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/cv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/cw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/cx.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/cy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/cz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/de.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/dj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/dk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/dm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/do.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/dz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ec.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ee.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/eg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/eh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/er.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/es.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/et.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/eu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/fi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/fj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/fk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/fm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/fo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/fr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ga.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gb-eng.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gb-nir.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gb-sct.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gb-wls.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ge.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/gy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/hk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/hm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/hn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/hr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ht.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/hu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/id.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ie.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/il.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/im.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/in.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/io.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/iq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ir.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/is.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/it.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/je.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/jm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/jo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/jp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ke.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/kg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/kh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ki.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/km.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/kn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/kp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/kr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/kw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ky.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/kz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/la.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/lb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/lc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/li.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/lk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/lr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ls.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/lt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/lu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/lv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ly.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ma.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/md.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/me.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ml.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ms.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mx.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/my.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/mz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/na.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/nc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ne.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/nf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ng.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ni.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/nl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/no.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/np.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/nr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/nu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/nz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/om.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/pa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/pe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/pf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/pg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ph.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/pk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/pl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/pm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/pn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/pr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ps.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/pt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/pw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/py.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/qa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/re.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ro.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/rs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ru.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/rw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/sa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/sb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/sc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/sd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/se.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/sg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/sh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/si.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/sj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/sk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/sl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/sm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/sn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/so.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/sr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ss.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/st.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/sv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/sx.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/sy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/sz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/tc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/td.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/tf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/tg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/th.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/tj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/tk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/tl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/tm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/tn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/to.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/tr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/tt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/tv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/tw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/tz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ua.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ug.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/um.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/un.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/us.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/uy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/uz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/va.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/vc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ve.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/vg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/vi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/vn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/vu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/wf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ws.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/ye.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/yt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/za.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/zm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/zw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/1x1/zz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ad.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ae.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/af.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ai.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/al.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/am.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ao.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/aq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/as.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/at.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/au.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/aw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ax.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/az.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ba.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/be.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/br.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/by.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/bz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ca.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/cc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/cd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/cf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/cg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ci.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ck.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/cl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/cm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/cn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/co.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/cr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/cu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/cv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/cw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/cx.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/cy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/cz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/de.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/dj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/dk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/dm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/do.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/dz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ec.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ee.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/eg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/eh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/er.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/es.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/et.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/eu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/fi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/fj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/fk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/fm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/fo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/fr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ga.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gb-eng.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gb-nir.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gb-sct.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gb-wls.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ge.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/gy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/hk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/hm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/hn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/hr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ht.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/hu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/id.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ie.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/il.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/im.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/in.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/io.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/iq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ir.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/is.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/it.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/je.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/jm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/jo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/jp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ke.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/kg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/kh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ki.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/km.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/kn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/kp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/kr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/kw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ky.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/kz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/la.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/lb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/lc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/li.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/lk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/lr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ls.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/lt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/lu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/lv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ly.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ma.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/md.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/me.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ml.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ms.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mx.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/my.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/mz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/na.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/nc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ne.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/nf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ng.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ni.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/nl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/no.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/np.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/nr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/nu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/nz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/om.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/pa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/pe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/pf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/pg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ph.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/pk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/pl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/pm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/pn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/pr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ps.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/pt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/pw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/py.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/qa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/re.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ro.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/rs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ru.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/rw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/sa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/sb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/sc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/sd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/se.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/sg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/sh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/si.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/sj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/sk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/sl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/sm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/sn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/so.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/sr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ss.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/st.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/sv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/sx.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/sy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/sz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/tc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/td.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/tf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/tg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/th.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/tj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/tk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/tl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/tm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/tn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/to.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/tr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/tt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/tv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/tw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/tz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ua.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ug.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/um.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/un.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/us.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/uy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/uz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/va.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/vc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ve.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/vg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/vi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/vn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/vu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/wf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ws.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/ye.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/yt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/za.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/zm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/zw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flags/4x3/zz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/flat-admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/theme/blue-sky.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/theme/blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/theme/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/theme/red.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/theme/yellow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/vendor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/add_channel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/app_.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/neworder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/book_now.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/book_seat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/booking_file/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/booking_file/js/edit_index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/booking_file/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/1/22669_35024_fingar chips.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/1/29132_52756_schewan maggie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/1/7520_32276_kanda bhajiya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/1/90558_7114_barger.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/1/9691_22942_cheez pizza.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/2/2151_pyramid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/2/31099_pine.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/2/35958_rainbow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/2/49511_straw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/2/84617_lava.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/3/34266_dahiroti.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/3/87966_pvbhaji.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/4/50589_mccain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/4/58532_maggi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/4/74924_ketchup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/5/45754_apple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/5/86251_watermelon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/5/99814_custard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/categories/6/46285_brinjal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/css/bootstrap-datetimepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/css/bootstrap-datetimepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/bootstrap-datetimepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/bootstrap-datetimepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.bn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.ee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.hy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.ka.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.pt-BR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.rs-latin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.rs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.ua.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.zh-CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/js/locales/bootstrap-datetimepicker.zh-TW.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/sample/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/sample/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/sample/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/sample/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/sample/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/sample/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/sample/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/sample/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/sample/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/sample/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/sample/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/clock/sample/jquery/jquery-1.8.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/db/foodcart_sell.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/edit_book_now.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/edit_book_seat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/edit_menugallery.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/edit_reservation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fetch_drowp_coupon.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/flavors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/forgot_password.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/gcm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/genratepdf.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/getCategoryList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/get_coupon.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/get_sc_coupon.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/hotel_info.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/13330_banner.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/18239_wedding.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/34679_laptop-1890547_640.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/35857_fashion-1031469_640.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/38628_banner2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/40105_laptop-1890547_640.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/45530_meal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/51311_vege.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/53424_34466_Untitled-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/66385_pastry..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/66418_grocery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/73249_b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/79118_blouse-2597205_640.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/81429_fruits.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/95563_wedding.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/98724_user.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/img/non.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/img/veg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/img/veg_non_veg_icon_preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/users/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/includes/connection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/includes/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/includes/function.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/includes/fv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/includes/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/includes/session_check.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/language/language.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/login_db.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/manage_city.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/manage_contact_us.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/manage_coupon_code.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/manage_coupon_type.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/manage_flavour.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/manage_home_banner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/manage_menucategory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/manage_menugallery.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/manage_notification.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/manage_scratch_coupon.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/manage_scratch_coupon_show.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/manage_sub_city.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/manage_total_cashback.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/manage_users.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/menu_cat_list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/neworder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/order-receipt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/place_order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/profile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/registerFCM.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/reservation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/thumbnail_images.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/update_profile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/updateversion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/view_profile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-classic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-full-screen-single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-listing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple-dashboard-add-new-guest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple-dashboard-budget.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple-dashboard-guest-manager-datagroup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple-dashboard-guest-manager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple-dashboard-mywishlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple-dashboard-overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple-dashboard-profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple-dashboard-realwedding.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple-dashboard-table-planner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple-dashboard-todolist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple-dashboard-website.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/couple-rsvp-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-template/forgot-password.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-template/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-template/new-id-password.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-template/reset-password.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-template/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/error-404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/help-category-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/help-category-single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/help-center.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about-pageheader.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/admin-pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/align-center.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/align-left.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/align-right.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/app-store-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/author-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog-single.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/category-location-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/category-location-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/category-location-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/category-location-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/category-location-img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/category-location-img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/category-location-img-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/category-location-img-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/category-location-img-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/catergory-florist.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/catergory-photographer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/catergory-venue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/couple-bg-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/couple-form-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cta-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dashboard-list-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dashboard-list-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dashboard-list-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dashboard-list-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dashboard-list-img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dashboard-list-img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dashboard-profile-couple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dashboard-profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/down-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/error-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/footer-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hero-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hero-image-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hero-image-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hero-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/howitwork-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kb-pageheader.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/listsingle-slider-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/listsingle-slider-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/listsingle-slider-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/listsingle-slider-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/map-pin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/page-header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/play-store-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/post-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/post-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/post-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/post-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/post-img-classic-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/post-img-classic-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/post-img-classic-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/post-img-classic-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/post-single-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/post-small-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/real-wed-gallery-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/real-wed-gallery-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/real-wed-gallery-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/real-wed-gallery-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/real-wed-gallery-img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/real-wedding-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/real-wedding-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/real-wedding-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/real-wedding-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/real-wedding-img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/real-wedding-img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/real-wedding-img-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/real-wedding-img-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/real-wedding-img-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/real-weddings-single.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/recent-post-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/recent-post-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/recent-post-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/recent-post-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/related-post-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/related-post-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/related-post-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/review-pic-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/review-pic-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/review-pic-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rsvp-page-header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/secure-payment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/signup-bg-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sort_asc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sort_asc_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sort_both.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sort_desc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sort_desc_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-cake-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-cake-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-cake-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-cake-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-cake-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-cake-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-cake-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-cake-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-cake-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-dress-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-dress-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-dress-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-dress-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-dress-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-dress-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-dress-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-florist-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-florist-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-florist-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-florist-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-florist-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-florist-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-florist-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-florist-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-florist-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-photographer-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-photographer-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-photographer-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-photographer-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-photographer-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-photographer-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-photographer-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-photographer-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/supplier-photographer-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-member-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-member-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-member-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-member-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-member-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-member-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-member-small-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-member-small-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-member-small-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-member-small-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonial-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonial-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonial-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ui-icons_444444_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ui-icons_555555_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/user-pic-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/user-pic-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/user-pic-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/user-pic-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/user-profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendor-carousel-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendor-carousel-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendor-carousel-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendor-carousel-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendor-cat-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendor-cat-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendor-cat-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendor-cat-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendor-cat-img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendor-cat-img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendor-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendor-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendor-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendor-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendor-img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendor-img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/venue-pageheader.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/venue-single.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/venue_categories_img_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/venue_categories_img_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/venue_categories_img_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/venue_categories_img_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/venue_categories_img_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/venue_categories_img_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/videographer-category-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wedding-cake-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wedding-catering-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wedding-dj-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wedding-dresses-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wedding-florist-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wedding-gallery-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wedding-gallery-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wedding-gallery-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wedding-honeymoon-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wedding-photographer-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/widget-banner-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/workplace-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/workplace-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list-grid-view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list-half-screen-map.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list-single-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list-single-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list-single-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list-single-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list-single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list-view-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/real-wedding-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/real-wedding-single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shortcode-accordions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shortcode-alerts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shortcode-tabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summernote.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supplier-cake-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supplier-dresses-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supplier-florist-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supplier-photographer-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supplier-videographer-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/team-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/listings/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/listings/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/listings/d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/listings/default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/listings/e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/listings/selfy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/listings/wedding-cake-639516_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v-footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/v-footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v-header.php" beforeDir="false" afterPath="$PROJECT_DIR$/v-header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-add-listing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-category.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-dashboard-add-listing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-dashboard-listing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-dashboard-overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-dashboard-pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-dashboard-profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-dashboard-request-quote.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-dashboard-request-quote.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-dashboard-reviews.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-dashboard.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-delete-listing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-edit-listing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-listings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-location.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-pricing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/profile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor-reviews.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors.php" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1086268157">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="3" />
+          <entry key="js" value="1" />
+          <entry key="php" value="92" />
+          <entry key="rnc" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PHP" value="92" />
+          <entry key="RNG Compact" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="3632" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="3632" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-726106575">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="409" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="409" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="54" column="33" selection-start-line="73" selection-start-column="59" selection-end-line="73" selection-end-column="110" />
+              <folding>
+                <element signature="e#205#382#0#PHP" />
+                <element signature="e#5276#6929#0#PHP" />
+                <element signature="e#10043#13432#0#PHP" />
+                <element signature="e#11779#13432#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../WeddingHub/registration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="27" selection-end-line="273" selection-end-column="7" />
+              <folding>
+                <element signature="e#77#111#0#PHP" expanded="true" />
+                <element signature="e#1876#3694#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addEvents.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="52" selection-start-line="24" selection-start-column="14" selection-end-line="27" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/editEvent.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="230" column="76" lean-forward="true" selection-start-line="230" selection-start-column="76" selection-end-line="230" selection-end-column="76" />
+              <folding>
+                <element signature="e#77#111#0#PHP" expanded="true" />
+                <element signature="e#1876#3694#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addproducts.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1370">
+              <caret line="124" column="56" selection-start-line="124" selection-start-column="56" selection-end-line="124" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/editproduct.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="129" column="26" selection-start-line="129" selection-start-column="26" selection-end-line="129" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/productsTable.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="101" column="39" selection-start-line="101" selection-start-column="39" selection-end-line="104" selection-end-column="48" />
+              <folding>
+                <element signature="e#205#382#0#PHP" />
+                <element signature="e#2418#2450#0#HTML" expanded="true" />
+                <element signature="e#13088#13376#0#HTML" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../WeddingHub/admin/manage_menugallery.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="197" column="14" selection-start-line="142" selection-start-column="16" selection-end-line="197" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#td#7;n#tr#0;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1700">
+              <caret line="100" column="48" selection-start-line="100" selection-start-column="48" selection-end-line="100" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/events.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="52" column="134" selection-start-line="52" selection-start-column="134" selection-end-line="52" selection-end-column="134" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>css/</find>
+      <find>products</find>
+      <find>$request</find>
+      <find>dele</find>
+      <find>startdate</find>
+      <find>enddate</find>
+      <find>$init</find>
+      <find>notification</find>
+      <find>Item</find>
+      <find>Submit New Item</find>
+      <find>categories</find>
+      <find>Sermon</find>
+      <find>images</find>
+      <find>Assembly</find>
+      <find>image</find>
+      <find>Vendor</find>
+      <find>table</find>
+      <find>Teaching</find>
+      <find>./images/gallery-thumb.jpg</find>
+      <find>delete</find>
+      <find>starttime</find>
+      <find>img</find>
+      <find>edit</find>
+      <find>$row</find>
+      <find>visibility_mode</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/delete-assembly.php" />
+        <option value="$PROJECT_DIR$/delete-event.php" />
+        <option value="$PROJECT_DIR$/delete-teaching.php" />
+        <option value="$PROJECT_DIR$/delete-update.php" />
+        <option value="$PROJECT_DIR$/delete-users.php" />
+        <option value="$PROJECT_DIR$/upload/config.php" />
+        <option value="$PROJECT_DIR$/upload/index.php" />
+        <option value="$PROJECT_DIR$/upload/submit.php" />
+        <option value="$PROJECT_DIR$/file_uploader.php" />
+        <option value="$PROJECT_DIR$/teaching_upload.php" />
+        <option value="$PROJECT_DIR$/delete-categories.php" />
+        <option value="$PROJECT_DIR$/categories.php" />
+        <option value="$PROJECT_DIR$/assemblies.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/editAssembly.php" />
+        <option value="$PROJECT_DIR$/editAbout.php" />
+        <option value="$PROJECT_DIR$/editSermon.php" />
+        <option value="$PROJECT_DIR$/editTeaching.php" />
+        <option value="$PROJECT_DIR$/addcategories.php" />
+        <option value="$PROJECT_DIR$/addTeaching.php" />
+        <option value="$PROJECT_DIR$/detailedUpdate.php" />
+        <option value="$PROJECT_DIR$/images.php" />
+        <option value="$PROJECT_DIR$/addImages.php" />
+        <option value="$PROJECT_DIR$/addPages.php" />
+        <option value="$PROJECT_DIR$/editimage.php" />
+        <option value="$PROJECT_DIR$/vendor-profile.php" />
+        <option value="$PROJECT_DIR$/profile.php" />
+        <option value="$PROJECT_DIR$/addLiveStreaming.php" />
+        <option value="$PROJECT_DIR$/editLivestreaming.php" />
+        <option value="$PROJECT_DIR$/LiveStreaming.php" />
+        <option value="$USER_HOME$/Downloads/contact_us.php" />
+        <option value="$PROJECT_DIR$/delete-livestreaming.php" />
+        <option value="$PROJECT_DIR$/delete-image.php" />
+        <option value="$PROJECT_DIR$/dashboard.php" />
+        <option value="$PROJECT_DIR$/updates_page.php" />
+        <option value="$PROJECT_DIR$/updates.php" />
+        <option value="$PROJECT_DIR$/Feedback.php" />
+        <option value="$PROJECT_DIR$/editPages.php" />
+        <option value="$PROJECT_DIR$/Pages.php" />
+        <option value="$PROJECT_DIR$/ministries.php" />
+        <option value="$PROJECT_DIR$/v-header.php" />
+        <option value="$PROJECT_DIR$/ministriesgallery.php" />
+        <option value="$PROJECT_DIR$/about.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/events.php" />
+        <option value="$PROJECT_DIR$/addEvents.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/editproduct.php" />
+        <option value="$PROJECT_DIR$/productsTable.php" />
+        <option value="$PROJECT_DIR$/products.php" />
+        <option value="$PROJECT_DIR$/editEvent.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="675" />
+    <option name="y" value="-8" />
+    <option name="width" value="699" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="groceryapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groceryapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fault_tracking_system" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\fif" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b07c8ad-c2ba-47ef-9f24-0d7d2d849172" name="Default Changelist" comment="" />
+      <created>1603071776090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603071776090</updated>
+      <workItem from="1603071784037" duration="14326000" />
+      <workItem from="1603198915380" duration="13063000" />
+      <workItem from="1603306048575" duration="6486000" />
+      <workItem from="1604329235437" duration="17982000" />
+      <workItem from="1604452654272" duration="620000" />
+      <workItem from="1604659320898" duration="76000" />
+      <workItem from="1604759665469" duration="6691000" />
+      <workItem from="1605015494612" duration="1688000" />
+      <workItem from="1605249204523" duration="593000" />
+      <workItem from="1605341202710" duration="2643000" />
+      <workItem from="1605460812818" duration="505000" />
+      <workItem from="1605651467176" duration="592000" />
+      <workItem from="1605707104295" duration="575000" />
+      <workItem from="1606606428502" duration="977000" />
+      <workItem from="1606977698777" duration="285000" />
+      <workItem from="1607219963963" duration="2293000" />
+      <workItem from="1607267416743" duration="1789000" />
+      <workItem from="1608625364048" duration="3270000" />
+      <workItem from="1609946616442" duration="588000" />
+      <workItem from="1612396093278" duration="1460000" />
+      <workItem from="1613835251407" duration="587000" />
+      <workItem from="1613864723097" duration="7029000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84118000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18305598" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1452345" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Feedback.php</url>
+          <line>148</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/teaching_upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="107" column="66" selection-start-line="107" selection-start-column="66" selection-end-line="107" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assemblies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="79" column="48" lean-forward="true" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editSermon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="52" selection-end-line="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editTeaching.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_uploader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editAbout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="130" column="106" selection-start-line="130" selection-start-column="106" selection-end-line="130" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addCategories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="36" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detailedUpdate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="57" column="54" lean-forward="true" selection-start-line="57" selection-start-column="54" selection-end-line="57" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editAssembly.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1989">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="56" column="54" lean-forward="true" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addImages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="44" column="94" lean-forward="true" selection-start-line="44" selection-start-column="94" selection-end-line="44" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editimage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="61" column="73" selection-start-line="61" selection-start-column="73" selection-end-line="61" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1492">
+          <caret line="100" column="39" lean-forward="true" selection-start-line="100" selection-start-column="39" selection-end-line="100" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addLiveStreaming.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="91" column="42" lean-forward="true" selection-start-line="85" selection-start-column="35" selection-end-line="91" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editLivestreaming.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addPages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/contact_us.php" />
+    <entry file="file://$PROJECT_DIR$/LiveStreaming.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="58" selection-start-line="60" selection-start-column="51" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2159">
+          <caret line="127" column="18" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete-livestreaming.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="13" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete-image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="96" selection-start-line="54" selection-start-column="96" selection-end-line="54" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addAbout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addTeaching.php" />
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="95" column="67" selection-start-line="95" selection-start-column="67" selection-end-line="95" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/updates_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="117" column="37" selection-start-line="69" selection-start-column="29" selection-end-line="117" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xamppg/htdocs/WeddingHub/vendor-dashboard-listing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="137" column="38" selection-start-line="137" selection-start-column="38" selection-end-line="137" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xamppg/htdocs/WeddingHub/vendor-dashboard-add-listing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="292" column="74" lean-forward="true" selection-start-line="292" selection-start-column="74" selection-end-line="292" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editPages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="71" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Feedback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="146" column="38" selection-start-line="130" selection-start-column="31" selection-end-line="146" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="113" column="46" selection-start-line="113" selection-start-column="46" selection-end-line="113" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ministries.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="79" selection-start-line="31" selection-start-column="79" selection-end-line="31" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/drive/docs/dbs/code/honda/database/seeds/DatabaseSeeder.php" />
+    <entry file="file://$PROJECT_DIR$/ministriesgallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="80" selection-start-line="34" selection-start-column="80" selection-end-line="34" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="42" column="2" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
+          <folding>
+            <element signature="e#239#1399#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addEvents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="52" selection-start-line="24" selection-start-column="14" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="100" column="48" selection-start-line="100" selection-start-column="48" selection-end-line="100" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xamppg/htdocs/WeddingHub/couple-dashboard-budget.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="160" column="46" selection-start-line="132" selection-start-column="38" selection-end-line="160" selection-end-column="46" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editproduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="129" column="26" selection-start-line="129" selection-start-column="26" selection-end-line="129" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/updates.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="96" column="69" selection-start-line="96" selection-start-column="69" selection-end-line="96" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="52" column="134" selection-start-line="52" selection-start-column="134" selection-end-line="52" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addproducts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1370">
+          <caret line="124" column="56" selection-start-line="124" selection-start-column="56" selection-end-line="124" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WeddingHub/admin/manage_menugallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="197" column="14" selection-start-line="142" selection-start-column="16" selection-end-line="197" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#td#7;n#tr#0;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="101" column="39" selection-start-line="101" selection-start-column="39" selection-end-line="104" selection-end-column="48" />
+          <folding>
+            <element signature="e#205#382#0#PHP" />
+            <element signature="e#2418#2450#0#HTML" expanded="true" />
+            <element signature="e#13088#13376#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="54" column="33" selection-start-line="73" selection-start-column="59" selection-end-line="73" selection-end-column="110" />
+          <folding>
+            <element signature="e#205#382#0#PHP" />
+            <element signature="e#5276#6929#0#PHP" />
+            <element signature="e#10043#13432#0#PHP" />
+            <element signature="e#11779#13432#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WeddingHub/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="27" selection-end-line="273" selection-end-column="7" />
+          <folding>
+            <element signature="e#77#111#0#PHP" expanded="true" />
+            <element signature="e#1876#3694#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editEvent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="230" column="76" lean-forward="true" selection-start-line="230" selection-start-column="76" selection-end-line="230" selection-end-column="76" />
+          <folding>
+            <element signature="e#77#111#0#PHP" expanded="true" />
+            <element signature="e#1876#3694#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
